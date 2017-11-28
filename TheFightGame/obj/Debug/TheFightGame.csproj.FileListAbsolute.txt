@@ -1,0 +1,7 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\bin\Debug\TheFightGame.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\bin\Debug\TheFightGame.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\bin\Debug\TheFightGame.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\obj\Debug\TheFightGame.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\obj\Debug\TheFightGame.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TheFightGame\TheFightGame\obj\Debug\TheFightGame.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\TheFightGame\TheFightGame\obj\Debug\TheFightGame.csproj.CoreCompileInputs.cache
